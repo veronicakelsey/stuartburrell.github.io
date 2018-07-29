@@ -21,6 +21,6 @@ author_profile: true
 
 ### Master's Theses
 
-[The order problem for natural and tropical matrix semigroups](https://stuartburrell.github.io/stuartburrell/files/gapthesis.pdf)  
+[The order problem for natural and tropical matrix semigroups](https://stuartburrell.github.io/files/gapthesis.pdf)  
 
-[Sequential Monte Carlo in population dynamics](https://stuartburrell.github.io/stuartburrell/files/smcthesis.pdf)  
+[Sequential Monte Carlo in population dynamics](https://stuartburrell.github.io/files/smcthesis.pdf)  
