@@ -11,9 +11,9 @@ title                    : "Stuart A. Burrell"
 title_separator          : "-"
 name                     : &name "Stuart A. Burrell"
 description              : &description "PhD Student at the University of St Andrews"
-url                      : https://stuartburrell.github.io/stuartburrell # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://stuartburrell.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "stuartburrell/stuartburrell.github.io"
+repository               : "stuartburrell.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<!--[See a map of all the places I've given a talk!](https://stuartburrell.github.io/stuartburrell/talkmap.html)-->
+<!--[See a map of all the places I've given a talk!](https://stuartburrell.github.io/talkmap.html)-->
 
 ## International conferences and meetings
 The dimensions of inhomogeneous self-affine sets (poster presentation)
