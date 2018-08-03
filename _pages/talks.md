@@ -7,7 +7,7 @@ author_profile: true
 <!--[See a map of all the places I've given a talk!](https://stuartburrell.github.io/talkmap.html)-->
 
 ## International conferences and meetings
-The dimensions of inhomogeneous self-affine sets (poster presentation)  
+The dimensions of inhomogeneous self-affine sets [poster presentation](https://stuartburrell.github.io/files/poster.pdf)  
 *Fractals and Stochastics VI, KIT, Germany, October 2018.*
 
 A brief note on the dimension of inhomogeneous attractors  
