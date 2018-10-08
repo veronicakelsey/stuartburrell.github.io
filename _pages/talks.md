@@ -30,7 +30,7 @@ How big are inhomogeneous attractors?
 *Edinburgh Mathematical Society PG Student Meeting, The Burn, Glen Esk, May 2018.*  
 
 ## Internal seminars
-Dimension drop and inhomogeneous self-affine sets
+Dimension drop and inhomogeneous self-affine sets  
 *Pure Analysis Seminar, University of St Andrews, October 2018.*  
 
 On the dimension and measure of inhomogeneous attractors  
