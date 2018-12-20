@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.31)  8 OCT 2018 11:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  20 DEC 2018 15:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -286,7 +286,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--158
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--171
+Underfull \hbox (badness 10000) in paragraph at lines 159--172
 
  []
 
@@ -307,8 +307,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
  ) 
 Here is how much of TeX's memory you used:
  4786 strings out of 493029
- 71304 string characters out of 6136234
- 159620 words of memory out of 5000000
+ 71304 string characters out of 6136233
+ 159617 words of memory out of 5000000
  8326 multiletter control sequences out of 15000+600000
  7639 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
