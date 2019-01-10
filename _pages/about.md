@@ -17,7 +17,7 @@ redirect_from:
         <a href="(http://www.mcs.st-and.ac.uk/~kenneth/)">Professor Kenneth Falconer</a>, and funded by a scholarship from the <a href="(https://www.carnegie-trust.org/)">Carnegie Trust</a>.
 
         I love engaging in outreach and giving talks to both specialist and general audiences. If you'd be interested in having me speak at an event, please get in touch.
-</div></div>
+</div>
 
 
 ## Contact details
