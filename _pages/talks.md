@@ -30,6 +30,9 @@ How big are inhomogeneous attractors?
 *Edinburgh Mathematical Society PG Student Meeting, The Burn, Glen Esk, May 2018.*  
 
 ## Internal seminars
+Foundations and applications of fractal geometry  
+*Postgraduate Interdisciplinary Mathematics Symposium, The Burn, Glen Esk, January 2019.*  
+
 Dimension drop and inhomogeneous self-affine sets  
 *Pure Analysis Seminar, University of St Andrews, October 2018.*  
 
@@ -49,6 +52,9 @@ Sequential Monte Carlo in population dynamics
 *Master's Defense, St Andrews, April 2016.*
 
 ## Outreach and general audience
+Sundials, dimensions and fractal projections
+*Carnegie Gathering, The Royal College of Physicians and Surgeons, Glasgow, February 2019.*  
+
 The journey to a PhD in Mathematics  
 *UWS Summer STEM Academy, Glasgow, July 2018.*  
 
