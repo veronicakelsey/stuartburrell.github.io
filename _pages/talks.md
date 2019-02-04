@@ -52,7 +52,7 @@ Sequential Monte Carlo in population dynamics
 *Master's Defense, St Andrews, April 2016.*
 
 ## Outreach and general audience
-Sundials, dimensions and fractal projections
+Sundials, dimensions and fractal projections  
 *Carnegie Gathering, The Royal College of Physicians and Surgeons, Glasgow, February 2019.*  
 
 The journey to a PhD in Mathematics  
