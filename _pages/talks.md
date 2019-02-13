@@ -55,6 +55,9 @@ Sequential Monte Carlo in population dynamics
 Sundials, dimensions and fractal projections  
 *Carnegie Gathering, The Royal College of Physicians and Surgeons, Glasgow, February 2019.*  
 
+Positive problem solving  
+*First Chances Scheme, University of St Andrews, February 2019.*  
+
 The journey to a PhD in Mathematics  
 *UWS Summer STEM Academy, Glasgow, July 2018.*  
 
